@@ -1,1 +1,3 @@
-import * as pulumi from "@pulumi/pulumi";
+import './src/azPolicyDefinition'
+import './src/azPolicyInitiative'
+import './src/azPolicyAssignment'
